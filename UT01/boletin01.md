@@ -85,7 +85,7 @@ El 4º día de la semana es Jueves.
 ```
  
 ###  8. Tres números  
-Haz un programa en pseudocodigo que, a partir de tres variables enteras solicitadas por consola. Para ello habrá que crear una serie de variables adicionales.  
+Haz un programa en pseudocodigo que, a partir de tres variables enteras solicitadas por consola. las ordene de mayor a menor. Para ello habrá que crear una serie de variables adicionales.  
  
 
 **EJEMPLO:**  
