@@ -12,9 +12,11 @@ int suma = 0;
     if (suma % 2 == 0) {
         if (numero % 3 == 0) {
             return true; 
+        }
     } else {
         if (numero % 5 == 0) {
             return true; 
+        }
     }
     return false;
 }
