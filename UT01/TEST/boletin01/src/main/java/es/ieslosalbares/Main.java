@@ -10,6 +10,7 @@ public class Main {
         System.out.println("escribe otro numero");
         int num2 = teclado.nextInt();
         System.out.println(ejercicio01(num1 , num2));
+        teclado.close();
 
     }
 

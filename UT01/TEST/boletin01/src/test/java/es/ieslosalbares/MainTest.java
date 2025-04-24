@@ -1,13 +1,14 @@
 package es.ieslosalbares;
 
-import static org.junit.Assert.assertEquals;
-import org.junit.Test;
-
 import static es.ieslosalbares.Main.ejercicio01;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.DisplayName;
 
 
 public class MainTest {
     @Test
+    @DisplayName("pruenba del ejercicio 1")
     public void testEjercicio01() {
         String resultado = ejercicio01 (5,6);
         assertEquals("6 es mayor que 5" , resultado);  
